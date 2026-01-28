@@ -75,9 +75,4 @@ This project is **open-source** under the **MIT License**.
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 
-## **📬 Let's Connect!**
 
-Got feedback or ideas? Reach out to me! I’d love to hear from you. 🎉
-
-- 📧 Email: vipulsuthar1144@gmail.com
-- 💼 LinkedIn: [Vipul Suthar | LinkedIn](https://www.linkedin.com/in/vipulsuthar1144/)
